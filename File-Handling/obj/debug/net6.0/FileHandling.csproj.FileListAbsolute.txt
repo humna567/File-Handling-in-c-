@@ -1,0 +1,14 @@
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\bin\Debug\net6.0\FileHandling.exe
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\bin\Debug\net6.0\FileHandling.deps.json
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\bin\Debug\net6.0\FileHandling.runtimeconfig.json
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\bin\Debug\net6.0\FileHandling.dll
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\bin\Debug\net6.0\FileHandling.pdb
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\obj\Debug\net6.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfoInputs.cache
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfo.cs
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\obj\Debug\net6.0\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\obj\Debug\net6.0\FileHandling.dll
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\obj\Debug\net6.0\refint\FileHandling.dll
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\obj\Debug\net6.0\FileHandling.pdb
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\obj\Debug\net6.0\FileHandling.genruntimeconfig.cache
+C:\Users\humna.ghaffar\Downloads\entity-framework-core-codefirst-db-migration-master\FileHandling\obj\Debug\net6.0\ref\FileHandling.dll
